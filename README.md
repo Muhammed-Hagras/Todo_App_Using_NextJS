@@ -22,9 +22,8 @@
 
 - ### TailwaindCss.
 
-- ### daisyu UI.
+- ### daisy UI.
 
-- ### moment for dates.
 
 - ### uiid.
 
